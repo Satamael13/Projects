@@ -1,2 +1,2 @@
 # Projects
-Some personal programming projects I have done while being a student. 
+Some personal STEM projects I have done while being a student. 
